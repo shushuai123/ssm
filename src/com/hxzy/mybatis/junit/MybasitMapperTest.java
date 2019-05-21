@@ -30,6 +30,8 @@ public class MybasitMapperTest {
 		
 		for (User user : users) {
 			System.out.println(user.getBirthday());
+			
+			System.out.println("hhhhhhhh");
 		}
 		
 		
